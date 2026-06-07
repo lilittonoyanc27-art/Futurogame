@@ -1,0 +1,6 @@
+{
+  "name": "Իսպաներենի Ապառնի Ժամանակ - Futuro Simple",
+  "description": "Ինտերակտիվ ուսուցողական հավելված երեխաների համար` իսպաներենի Futuro Simple ապառնի ժամանակի յուրացման համար (խաղեր, ընթերցանություն, թարգմանություն):",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
